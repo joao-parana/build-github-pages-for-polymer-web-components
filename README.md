@@ -4,6 +4,6 @@
 
 ### Tive que mudar o protocolo de git para https
 
-# git clone git@github.com:$org/$repo.git --single-branch
-git clone https://github.com/$org/$repo.git --single-branch
+    # git clone git@github.com:$org/$repo.git --single-branch
+    git clone https://github.com/$org/$repo.git --single-branch
 
